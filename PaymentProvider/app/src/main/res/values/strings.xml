@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Ad Payments</string>
+    <string name="add_button_text">Add</string>
+    <string name="view_button_text">View</string>
+    <string name="alias">Alias</string>
+    <string name="name">Name</string>
+    <string name="privacy_url">Privacy URL</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="add_ad_network">Add Ad Network</string>
+    <string name="alias_cannot_be_blank">Alias cannot be blank</string>
+    <string name="name_cannot_be_blank">Name cannot be blank</string>
+    <string name="privacy_url_cannot_be_blank">Privacy URL cannot be blank</string>
+    <string name="edit">Edit</string>
+    <string name="group_text_hint">Alias</string>
+    <string name="child_text_hint">hint</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="adprovider_inserted_successfully">AdProvider inserted successfully</string>
+    <string name="adprovider_object_is_null">AdProvider object is null</string>
+    <string name="adprovider_updated_successfully">AdProvider updated successfully</string>
+    <string name="adprovider_deleted_successfully">AdProvider deleted successfully</string>
+    <string name="no_ad_providers_saved">No ad providers saved</string>
+    <string name="ad_network">Ad Network</string>
+</resources>
