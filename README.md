@@ -1,7 +1,7 @@
 # AdNetwork Assignment
-An Android App that lists the post and details.
+An Android App that lets user ad provider and alllows for modification
 
-![Adnetwrok](PaymentProvider/ad.gif)
+![Adnetwrok](PaymentProvider/Ad.gif)
 
 ## Architecture 
 
